@@ -1,0 +1,21 @@
+{
+    "name": "Chris/trip-sorter",
+    "description": "An API that lets you sort a list of bookings and gives back a sorted description of how to complete your journey.",
+    "keywords": ["sort", "boarding cards", "journey"],
+    "license": "Krystouf",
+    "authors": [
+        {
+            "name": "Christophe Hammami",
+            "email": "ami.chris@ymil.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Chris\\TripSorter\\": "src/"}
+    },
+    "autoload-dev": {
+        "psr-4": {"Chris\\TripSorter\\": "tests/"}
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    }
+}
