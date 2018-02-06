@@ -25,7 +25,7 @@ vendor/phpunit/phpunit/phpunit tests/TripTest.php
 Repeat for the other test files
 
 
-###Trying the API
+### Trying the API
 * Browse the package url via browser, It should output a sorted list.
 
 ### Extending class
