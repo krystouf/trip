@@ -29,7 +29,7 @@ Repeat for the other test files
 * Browse the package url via browser, It should output a sorted list.
 
 ### Extending class
-* You can create new type transports by extending the AbstractBoardingCard.
+* You can create new types of transports by extending the AbstractBoardingCard.
 
 ### Level of complexity
 * There are three steps in the sorting alo each of O(n) = 3n.
