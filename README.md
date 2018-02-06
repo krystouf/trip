@@ -1,4 +1,4 @@
-#TRIP SORTER by CHristophe Hammami
+#TRIP SORTER by Christophe Hammami
 
 ### How to execute the code
 
