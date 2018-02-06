@@ -22,14 +22,14 @@ To run tests make sure you are in the main folder, and then you can run this com
 vendor/phpunit/phpunit/phpunit tests/TripTest.php
 ```
 
-Repeat for the other files
+Repeat for the other test files
 
 
-###Running
-Browse the package url via browser, It should output a sorted list.
+###Trying the API
+* Browse the package url via browser, It should output a sorted list.
 
 ### Extending class
 * You can create new type transports by extending the AbstractBoardingCard.
 
 ### Level of complexity
-There are three steps in the sorting alo each of O(n) = 3n.
+* There are three steps in the sorting alo each of O(n) = 3n.
